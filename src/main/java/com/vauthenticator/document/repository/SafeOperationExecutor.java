@@ -19,6 +19,7 @@ class SafeOperationExecutor {
         }
 
     }
+
     static byte[] readAllBytesFrom(ResponseInputStream<GetObjectResponse> response) {
         try {
             return response.readAllBytes();
