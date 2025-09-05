@@ -18,7 +18,7 @@
 
     <properties>
         <java.version>17</java.version>
-        <aws.sdk.version>2.25.45</aws.sdk.version>
+        <aws.sdk.version>2.33.3</aws.sdk.version>
     </properties>
 
     <url>https://github.com/VAuthenticator/document-repository-starter</url>
